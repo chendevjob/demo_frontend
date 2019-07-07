@@ -1,7 +1,8 @@
-.tab-box {
-    margin: 15px;
+.btn-group {
+    text-align: center;
 }
-.tab-item {
+
+.save-btn {
     text-align: center;
     padding: 10px;
     border: 1px solid #5390ee;
@@ -9,13 +10,4 @@
     background: #fff;
     color: #333;
     border-radius: 5px;
-}
-
-.tab-item.active {
-    color: #fff;
-    background: #5390ee;
-}
-
-.tab-item a {
-    text-decoration: none;
 }
