@@ -16,6 +16,9 @@
     background: #5390ee;
 }
 
-.tab-item a {
+.tab-item.active a {
+    color: #fff;
+}
+.tab-item a{
     text-decoration: none;
 }
